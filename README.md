@@ -11,7 +11,7 @@ MetaAnalyst is a free, user-friendly software package for metagenomic biomarker 
     - Consensus performance
 - Generate the output in tab-delimited files and publication quality plots with various formatting capabilities. 
 
-The MetaAnalyst software is implemented using Matlab R2021a and it is available freely as a stand-alone package for Windows operating system at (https://gjuedujo-my.sharepoint.com/:f:/g/personal/salahaldeen_rababa_gju_edu_jo/EhjWDtiq15NHs43NCZg5HCUB7lBvmj01ck59-0K07iOdUQ?e=9dDUmV)
+The MetaAnalyst software is implemented using Matlab R2021a and it is available freely as a stand-alone package for Windows operating system at (https://gjuedujo-my.sharepoint.com/:u:/r/personal/mustafa_shawaqfeh_gju_edu_jo/Documents/MetaAnalyst/V1/MetaAnalyst.zip?csf=1&web=1&e=98b3Cj)
 
 # Requirements
 MetaAnalyst is a standalone desktop application, written in MATLAB and does not require any additional packages to install. MetaAnalyst runs on Microsoft Windows and Linux.
